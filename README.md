@@ -1,7 +1,7 @@
 # Airplane Crash Analysis Project
 
 ## Introduction
-This project is centered around a thorough examination of aircraft accidents and associated fatalities from 1908 to 2023. The dataset encompasses vital details like the dates and locations of crashes, flight operators, flight specifics, types of aircraft, and statistics on fatalities.
+This project is centered around a thorough examination of aircraft accidents and associated fatalities from 1908 to 2023. The dataset encompasses vital details like the dates and locations of crashes, flight operators, flight specifics, types of aircraft, and statistics on fatalities. The dataset and problem statements were provided by **Mentorness** during my time with them as a Data Analyst Intern.
 
 ## Objective
 The objective is to utilize **Power BI** to create interactive visualizations and gain profound insights into the patterns, underlying factors, and trends in aviation accidents. The analysis is intended to equip stakeholders with significant information that can aid in improving aviation safety and reducing risks.
